@@ -1,0 +1,7 @@
+templates:
+  apachephp:
+    - ^apachephp
+  mariadb:
+    - ^mariadb10
+  nginxphp:
+    - ^nginxphp
