@@ -10,8 +10,8 @@ categories:
     - apps/sales-and-marketing
 baseUrl: https://raw.githubusercontent.com/bitrix24-jelastic/master
 mixins:
-  - config/settings.yaml
-  - config/deps.yaml
+  - configs/settings.yaml
+  - configs/deps.yaml
 
 onBeforeInit: /scripts/settings.js
 
