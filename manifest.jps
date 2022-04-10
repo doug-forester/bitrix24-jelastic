@@ -8,8 +8,7 @@ description: Bitrix24 is a collaborative business software and platform trusted 
 categories:
     - apps/e-commerce
     - apps/sales-and-marketing
-baseUrl: https://bitbucket.org/biznetdev/bitrix-dev-jsp/raw/676977bccd1c4a5e1767a520300643c71f0e1b52
-
+baseUrl: https://raw.githubusercontent.com/bitrix24-jelastic/master
 mixins:
   - config/settings.yaml
   - config/deps.yaml
