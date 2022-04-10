@@ -13,7 +13,7 @@ mixins:
   - configs/settings.yaml
   - configs/deps.yaml
 
-onBeforeInit: /scripts/settings.js
+onBeforeInit: scripts/settings.js
 
 globals:
   IS_JELASTIC_SSL: false
