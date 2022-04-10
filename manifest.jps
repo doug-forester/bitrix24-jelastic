@@ -8,7 +8,7 @@ description: Bitrix24 is a collaborative business software and platform trusted 
 categories:
     - apps/e-commerce
     - apps/sales-and-marketing
-baseUrl: https://raw.githubusercontent.com/bitrix24-jelastic/master/
+baseUrl: https://raw.githubusercontent.com/doug-forester/bitrix24-jelastic/master/
 mixins:
   - configs/settings.yaml
   - configs/deps.yaml
