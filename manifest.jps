@@ -6,8 +6,8 @@ logo: images/bitrix24-logo.svg
 homepage: http://www.buildingbridge.com/
 description: Bitrix24 is a collaborative business software and platform trusted by many companies world wide!
 categories:
-    - apps/e-commerce
-    - apps/sales-and-marketing
+  - apps/e-commerce
+  - apps/sales-and-marketing
 baseUrl: https://raw.githubusercontent.com/doug-forester/bitrix24-jelastic/master/
 mixins:
   - configs/settings.yaml
